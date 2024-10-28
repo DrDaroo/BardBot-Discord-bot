@@ -37,7 +37,7 @@ public class BardBot {
         JsonObject jsObj;
 
         try {
-            BufferedReader br = new BufferedReader(new FileReader("src/main/java/com/BardBot/data.json"));
+            BufferedReader br = new BufferedReader(new FileReader("src/main/java/com/BardBot/config.json"));
             jsObj = gson.fromJson(br, JsonObject.class);
         } catch (FileNotFoundException e) {
             throw new RuntimeException(e);
