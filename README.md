@@ -17,9 +17,9 @@ After this you should check readme of [lavalink-devs/youtube-source](https://git
 To use poToken you will need to edit some code.
 
 ## Usage
--(prefix)play (url or video title which will return first most popular youtube search for specified video)
--(prefix)help (this command will display all BardBot's commands)
--(prefix)skip (this command will play next track in queue)
--(prefix)queue (shows all queued videos in a list)
--(prefix)clear (clears all videos in a queue)
--(prefix)status (this command will display video thumbnail, author and time to end. This command is going to be reworked soon)
+- (prefix)play (url or video title which will return first most popular youtube search for specified video)
+- (prefix)help (this command will display all BardBot's commands)
+- (prefix)skip (this command will play next track in queue)
+- (prefix)queue (shows all queued videos in a list)
+- (prefix)clear (clears all videos in a queue)
+- (prefix)status (this command will display video thumbnail, author and time to end. This command is going to be reworked soon)
