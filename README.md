@@ -38,3 +38,4 @@ BardBot is my personal project it may have some errors, it wasn't tested much bu
 
 ## Future
 I would like to include basic usable logging mechanism with my bot. Also in future BardBot will have Searching function which instead of playing first search from youtube will display 5? or less ? search results allowing user to choose which track they want to play. Some functions will be reworked like (prefix)status which would display what track is played by bot right now with all data of a track, like actual time to end current track or next track in queue in specified discord channel.
+Also play function will be rensponsing in a specified channel instead of that randomly selected by user.
