@@ -26,7 +26,7 @@ To use poToken you will need to edit some code.
 - (prefix)status (this command will display video thumbnail, author and time to end. This command is going to be reworked soon)
 - (prefix)loop (off, single, all - turns off looping, makes BardBot repeatedly playing single track, makes BardBot repeatedly playing entire queue)
 
-BardBot can also play urls from soundcloud, discord attachments and other sources specified in [lavalink-lavaplayer](https://github.com/lavalink-devs/lavaplayer).
+BardBot can also play urls from soundcloud, discord attachments and other sources specified by [lavalink-lavaplayer](https://github.com/lavalink-devs/lavaplayer).
 
 ## Warning
 BardBot can stop working at any time if youtube decides to change something again, but luckily it has only broken once in 4 years of its life.
