@@ -1,5 +1,5 @@
 # BardBot-Discord-bot
-##Bot created with:
+## Bot created with:
 - [Discord4j](https://discord4j.com/)
 - [lavalink-lavaplayer](https://github.com/lavalink-devs/lavaplayer) with with necessary for playing records from YouTube [lavalink-youtube-source](https://github.com/lavalink-devs/youtube-source)
 
