@@ -23,3 +23,4 @@ To use poToken you will need to edit some code.
 - (prefix)queue (shows all queued videos in a list)
 - (prefix)clear (clears all videos in a queue)
 - (prefix)status (this command will display video thumbnail, author and time to end. This command is going to be reworked soon)
+- (prefix)loop (off, single, all - turns off looping, makes BardBot repeatedly playing single track, makes BardBot repeatedly playing entire queue)
