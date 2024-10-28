@@ -1,0 +1,13 @@
+<configuration debug="false" scan="true">
+    <logger name="com.sedmelluq" level="INFO"/>
+
+    <appender name="Console" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder>
+            <pattern>[%d{HH:mm:ss}][%-1level][%logger{0}]: %msg%n</pattern>
+        </encoder>
+    </appender>
+
+    <root level="DEBUG">
+        <appender-ref ref="Console"/>
+    </root>
+</configuration>
