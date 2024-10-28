@@ -1,5 +1,7 @@
 # BardBot-Discord-bot
-Discord bot playing music created with [Discord4j](https://discord4j.com/) and [lavalink-lavaplayer](https://github.com/lavalink-devs/lavaplayer) with necessary for playing records from YouTube [lavalink-youtube-source](https://github.com/lavalink-devs/youtube-source).
+Bot created with:
+- [Discord4j](https://discord4j.com/)
+- [lavalink-lavaplayer](https://github.com/lavalink-devs/lavaplayer) with with necessary for playing records from YouTube [lavalink-youtube-source](https://github.com/lavalink-devs/youtube-source)
 
 For user convenience  BotToken, RefreshToken and prefix settings are stored in config.json. This is the only reason my project uses google gson.
 My custom youtube search function requires jsoup to work (If you want to you can get rid of it).
